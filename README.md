@@ -1,4 +1,6 @@
-[andrewdiles.com](https://andrewdiles.com)
+<a href="https://andrewdiles.com">
+<img height="100px" src="./assets/logo.gif" alt="portfolio logo"/>
+</a>
 
 # ðŸ’« About Me:
 
@@ -26,8 +28,6 @@ I'm passionate about implementing game design principles to maximize learning ðŸ
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andrewdiles) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@andrewdiles2152) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:andrewdiles@gmail.com)
 
-<a href="https://andrewdiles.com">
-<img height="100px" src="./assets/logo.gif" alt="portfolio logo"/>
-</a>
+[andrewdiles.com](https://andrewdiles.com)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
