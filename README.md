@@ -1,6 +1,9 @@
+[andrewdiles.com](https://andrewdiles.com)
+
 # 💫 About Me:
 
-<img alt="MERN Image" height="30px" src="https://teqnovos.com/wp-content/uploads/2023/05/mern-1.svg"/><br>
+
+<img alt="MERN Image" height="30px" src="./assets/mern.svg"/><br>
 
 I've had the joy of teaching the MERN stack for three years 😊<br/><br/>
 I love solving problems and helping others learn 🧑‍🏫<br/><br/>
@@ -22,5 +25,9 @@ I'm passionate about implementing game design principles to maximize learning �
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andrewdiles) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@andrewdiles2152) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:andrewdiles@gmail.com)
+
+<a href="https://andrewdiles.com">
+<img height="100px" src="./assets/logo.gif" alt="portfolio logo"/>
+</a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
