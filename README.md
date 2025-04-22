@@ -1,5 +1,9 @@
 <a href="https://andrewdiles.com">
-<img height="100px" src="./assets/logo.gif" alt="portfolio logo"/>
+	<picture>
+  	<source srcset="./assets/logo.gif" media="(prefers-color-scheme: dark)">
+  	<source srcset="./assets/logo-light.png" media="(prefers-color-scheme: light)">
+  	<img height="100px" src="./assets/logo.gif" alt="portfolio logo">
+	</picture>
 </a>
 
 # 💫 About Me:
